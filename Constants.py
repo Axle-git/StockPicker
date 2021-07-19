@@ -9,3 +9,4 @@ TECH_TICKER_URLS = {
     "AAPL" : "https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch",
     "GOOGL" : "https://finance.yahoo.com/quote/GOOGL?p=GOOGL&.tsrc=fin-srch"
     }
+    
