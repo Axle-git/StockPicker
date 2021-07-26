@@ -15,7 +15,7 @@ while True:
         prices[row].append(getTickerNumb(TECH_TICKER_URLS[stock]))
         row += 1
 
-    if iteration % 3 == 0: #   gives update on values every ~30 minutes
+    if iteration % 3 == 0: #   gives update on values every ~7 minutes
         updateTxt(prices)
 
     if iteration % 200 == 0:   #   every 200th interation
